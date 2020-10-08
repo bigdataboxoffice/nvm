@@ -1,5 +1,5 @@
 name             "nvm"
-version          "0.1.7"
+version          "0.1.8"
 maintainer       "Philip Hutchins"
 maintainer_email "flipture@gmail.com"
 license          "Apache 2.0"
